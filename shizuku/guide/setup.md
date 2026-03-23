@@ -155,9 +155,7 @@ Enable "Allow ADB debugging options in 'Charge only' mode" in "Developer options
 
 #### MIUI (Xiaomi, POCO)
 
-Do not use the scan feature in MIUI's "Security" app, since it will disable "Developer options".
-
-#### Sony
+Do not use the scan feature in MIUI's 
 
 Don't click the dialog shows after connecting the USB, because it will change USB usage mode.
 
